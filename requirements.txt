@@ -1,0 +1,7 @@
+streamlit>=1.37
+transformers>=4.44
+torch>=2.4
+pypdf
+python-docx
+trafilatura
+huggingface_hub[hf_xet]
