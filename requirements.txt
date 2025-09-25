@@ -1,9 +1,9 @@
 streamlit>=1.37
 transformers>=4.44
-torch>=2.4
 pypdf
 python-docx
 trafilatura
-huggingface_hub[hf_xet]
 readability-lxml>=0.8.1
+huggingface_hub>=0.24.0
+torch==2.2.2
 
