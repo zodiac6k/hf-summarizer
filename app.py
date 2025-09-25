@@ -283,6 +283,7 @@ with tab1:
             except Exception as e:
                 st.error(f"Summarization failed: {e}")
 
+
 with tab2:
     st.write(
         "If you fetched a web page's content elsewhere, paste the raw text in the first tab. "
